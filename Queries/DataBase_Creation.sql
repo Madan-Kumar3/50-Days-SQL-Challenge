@@ -1,1 +1,1 @@
-create DATABASE if not exists database sql_challenge
+create DATABASE sql_challenge
