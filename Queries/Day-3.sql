@@ -44,12 +44,13 @@ having count(*)>1
 
 ------Salaries
 
-SELECT salary_id,salary_id,salary,salary_date,
+SELECT salary_id,emp_id,salary,salary_date,
 count(*)
 from cleaned_salaries
-group by salary_id,salary_id,salary,salary_date
+group by salary_id,emp_id,salary,salary_date
 having count(*)>1
 
+select * from cleaned_salaries
 
 --------Performance Table
 
