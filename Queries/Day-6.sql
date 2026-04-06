@@ -43,7 +43,8 @@ where is_outlier=1;
 
 
 
-
+select * from cleaned_employees
+where emp_id='97'
 
 
 
