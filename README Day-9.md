@@ -1,0 +1,6 @@
+Day 9: SQL Tasks
+• Show only employees who have a valid department
+• Show all employees (even without department)
+• Find employees without department
+• Find who earns how much
+• List employees without salary
